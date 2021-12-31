@@ -1,11 +1,6 @@
 # Dashboards
 Repository for my work on Tableau and Power BI 
 
-<hr>
-
-## First Report: World Happiness Index Data (Don't judge please😭)
-<img src="https://github.com/AnityaGan9urde/Dashboards/blob/main/images/happy_1.jpg" height="300" width="450">  </img><img src="https://github.com/AnityaGan9urde/Dashboards/blob/main/images/happy_2.jpg" height="300" width="500"></img>
-<a href="https://github.com/AnityaGan9urde/Dashboards/blob/main/dashboards/Happiness_index_viz.pbix"><button>Download Report</button></a>
 ## Report on Indian Population
 ### Dataset:
 - Taken from Kaggle.
@@ -27,4 +22,15 @@ Repository for my work on Tableau and Power BI
 
 <a href="https://github.com/AnityaGan9urde/Dashboards/blob/main/dashboards/indian_popu.pbix"><button>Download Report</button></a>
 
-## More will be added soon...
+## Report on CO2 emissions
+### Dataset:
+- Taken from World Bank
+### Tableau Dashboard link:
+https://public.tableau.com/shared/SBY9ZZF52?:display_count=n&:origin=viz_share_link
+
+## Report on Covid-19 dataset
+### Dataset:
+- Taken from - https://ourworldindata.org/covid-deaths
+- Seperated into two datasets using Excel
+### Tableau Dashboard link:
+https://public.tableau.com/shared/3PR3GZD56?:display_count=n&:origin=viz_share_link
